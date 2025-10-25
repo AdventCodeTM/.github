@@ -56,7 +56,7 @@ Veuillez respecter notre **code de conduite** et les **guidelines de contributio
 
 ## 📬 Contact
 
-* Site web : [adventcode.netlify.app](https://adventcode.netlify.ap)
+* Site web : [adventcode.netlify.app](https://adventcode.netlify.app)
 * Email : [AdventCode@outlook.fr](mailto:AdventCode@outlook.fr)
 
 Merci de faire partie de notre aventure pour propulser la foi à l’ère digitale ! 🚀
