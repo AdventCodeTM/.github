@@ -52,6 +52,7 @@ Nous accueillons les contributions de développeurs, designers et traducteurs. P
 
 Veuillez respecter notre **code de conduite** et les **guidelines de contribution** disponibles dans le dossier `CONTRIBUTING.md`.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W51PCYM4)
 ---
 
 ## 📬 Contact
