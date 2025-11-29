@@ -26,6 +26,9 @@ AdventCode™ est une organisation chrétienne adventiste dédiée à la créati
    * Convertit jours/hours prophétiques en jours littéraux (1 j prophétique = 360 j littéraux, 1 h prophétique = 15 j littéraux).
    * Historique local, responsive, PWA, multi-langue.
 
+2. **JemApp**
+
+   * Une application web progressive (PWA) complète pour les chants JEM (Jeunesse en Mission) avec recherche, favoris, lecture audio
 
 ---
 
