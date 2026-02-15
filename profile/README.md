@@ -1,66 +1,106 @@
 # AdventCode™
 
-**Empowering Faith Through Technology**
+<div align="center">
+
+**✝ Empowering Faith Through Technology**
+
+[![Site](https://img.shields.io/badge/Site-adventcode.croney--tech.fr-F38020?logo=cloudflare&logoColor=white)](https://adventcode.croney-tech.fr)
+[![Ko-fi](https://img.shields.io/badge/Soutenir-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/W7W51PCYM4)
+
+</div>
 
 ---
 
-## 🌟 À propos de l'organisation
+## 🌟 À propos
 
-AdventCode™ est une organisation chrétienne adventiste dédiée à la création et au déploiement d’applications bibliques modernes, intuitives et accessibles à tous. Notre objectif est d’utiliser l’innovation technologique pour approfondir la compréhension des Écritures, faciliter l’étude biblique quotidienne et renforcer la communauté de croyants.
+**AdventCode™** est une organisation chrétienne adventiste dédiée à la création d'applications bibliques modernes, gratuites, sans publicité et accessibles à tous.
+
+Notre objectif : utiliser l'innovation technologique pour approfondir la compréhension des Écritures, faciliter l'étude biblique et renforcer la communauté de croyants.
+
+> AdventCode™ est un projet sous [Croney Technology Group](https://group.croney-technology.com).
 
 ---
 
 ## 🎯 Mission
 
-* **Faire rayonner la Parole de Dieu** via des outils numériques conviviaux.
-* **Favoriser l’étude personnelle et collective** des Écritures.
-* **Offrir des applications PWA (Progressive Web Apps)** pour un accès hors ligne et un déploiement simplifié.
-* **Supporter un contenu multilingue (FR / EN / ES)** afin de toucher un public mondial.
+- **Faire rayonner la Parole de Dieu** via des outils numériques conviviaux
+- **Favoriser l'étude personnelle et collective** des Écritures
+- **Offrir des applications PWA** pour un accès hors ligne et un déploiement simplifié
+- **Supporter un contenu multilingue** (🇫🇷 FR · 🇬🇧 EN · 🇪🇸 ES · 🇰🇷 KO) afin de toucher un public mondial
 
 ---
 
-## 🛠 Projets phares
+## 🛠 Projets
 
-1. **Prophetic Day Converter**
+### 🎵 JemApp
+> PWA complète pour les chants JEM (Jeunesse en Mission)
 
-   * Convertit jours/hours prophétiques en jours littéraux (1 j prophétique = 360 j littéraux, 1 h prophétique = 15 j littéraux).
-   * Historique local, responsive, PWA, multi-langue.
+- Recherche instantanée, favoris, lecture audio
+- Mode hors ligne complet
+- **Stack** : React + TypeScript, Vite, Tailwind CSS, Vite PWA Plugin
+- **Repo** : [`AdventCodeTM/JemApp`](https://github.com/AdventCodeTM/JemApp)
 
-2. **JemApp**
+### 📖 Prophetic Day Converter
+> Convertisseur de temps prophétiques bibliques
 
-   * Une application web progressive (PWA) complète pour les chants JEM (Jeunesse en Mission) avec recherche, favoris, lecture audio
+- 1 jour prophétique = 360 jours littéraux, 1 heure = 15 jours
+- Historique local, responsive, multi-langue
+- **Stack** : React + TypeScript, Vite, Tailwind CSS
+- **Repo** : [`AdventCodeTM/PropheticConverter`](https://github.com/AdventCodeTM/PropheticConverter)
+
+### 🌐 Site vitrine
+> [adventcode.croney-tech.fr](https://adventcode.croney-tech.fr)
+
+- Présentation de la mission, projets, contact
+- i18n complet (FR, EN, ES, KO), thème sombre/clair
+- SEO (Schema.org, Open Graph, sitemap), PWA manifest
+- **Stack** : Vanilla HTML/CSS/JS
 
 ---
 
 ## 🚀 Tech Stack
 
-* **Frontend** : React + TypeScript, Vite
-* **Styling** : Tailwind CSS
-* **PWA** : Vite PWA Plugin
-* **i18n** : react-i18next (FR, EN, ES)
-* **Storage** : localStorage / IndexedDB
-* **CI/CD & Deploy** : GitHub Actions, Netlify
+| Catégorie | Technologie |
+|:---|:---|
+| **Frontend** | React + TypeScript · Vanilla HTML/CSS/JS |
+| **Bundler** | Vite |
+| **Styling** | Tailwind CSS · CSS natif (custom properties, glassmorphism) |
+| **i18n** | react-i18next · JS custom (`i18n.js`) |
+| **PWA** | Vite PWA Plugin · Web App Manifest |
+| **Fonts** | Google Fonts (Inter, Outfit) — chargement non-bloquant |
+| **SEO** | Schema.org JSON-LD · Open Graph · sitemap.xml |
+| **Formulaires** | Formspree |
+| **Hébergement** | Cloudflare Pages |
+| **CI/CD** | Cloudflare auto-deploy (push → deploy) |
+| **VCS** | GitHub (org : [`AdventCodeTM`](https://github.com/AdventCodeTM)) |
 
 ---
 
 ## 🤝 Contribuer
 
-Nous accueillons les contributions de développeurs, designers et traducteurs. Pour contribuer :
+Nos projets ne sont **pas open source**, mais le code est visible pour la transparence. Vous pouvez :
 
-1. **Fork** le dépôt.
-2. Crée une **branche** pour votre feature ou correctif (`git checkout -b feature/ma-feature`).
-3. **Commit** vos modifications (`git commit -m "feat: description de la feature"`).
-4. **Push** vers votre branche (`git push origin feature/ma-feature`).
-5. Ouvrez une **Pull Request**.
+- 🐛 **Signaler un bug** via GitHub Issues
+- 💡 **Suggérer une amélioration** via une Issue
+- 🔧 **Proposer un correctif** via Pull Request
+- 🌍 **Proposer une traduction** pour une nouvelle langue
 
-Veuillez respecter notre **code de conduite** et les **guidelines de contribution** disponibles dans le dossier `CONTRIBUTING.md`.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W51PCYM4)
 ---
 
 ## 📬 Contact
 
-* Site web : [adventcode.netlify.app](https://adventcode.netlify.app)
-* Email : [AdventCode@outlook.fr](mailto:AdventCode@outlook.fr)
+| | |
+|:---|:---|
+| 🌐 Site | [adventcode.croney-tech.fr](https://adventcode.croney-tech.fr) |
+| 📧 Email | [adventcode@croney-tech.fr](mailto:adventcode@croney-tech.fr) |
+| ☕ Soutenir | [Ko-fi](https://ko-fi.com/W7W51PCYM4) |
 
-Merci de faire partie de notre aventure pour propulser la foi à l’ère digitale ! 🚀
+---
+
+<div align="center">
+
+**Fait avec ❤️ pour la gloire de Dieu**
+
+© 2025-2026 AdventCode™ — [Croney Technology Group](https://group.croney-technology.com)
+
+</div>
